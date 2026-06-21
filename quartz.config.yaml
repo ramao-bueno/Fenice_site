@@ -6,7 +6,7 @@ configuration:
   analytics:
     provider: none
   locale: pt-BR
-  baseUrl: feniceia.br
+  baseUrl: fenicejus.fenice.ia.br
   ignorePatterns:
     - scripts
     - .obsidian

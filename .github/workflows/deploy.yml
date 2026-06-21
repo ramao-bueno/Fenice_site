@@ -55,7 +55,7 @@ jobs:
         run: npx quartz build -d content
 
       - name: Add CNAME
-        run: echo "feniceia.br" > public/CNAME
+        run: echo "fenicejus.fenice.ia.br" > public/CNAME
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
